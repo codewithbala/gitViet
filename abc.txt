@@ -1,3 +1,4 @@
 learning Amend 
 
 command in git
+adding more txt
